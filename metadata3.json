@@ -2,11 +2,12 @@
     "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://bafybeiedl2zq63a2fy3ib7meypoir5hkvqa5fjdigzv4icgg3cl4twhw7i.ipfs.w3s.link",
+    "image": "https://github.com/gillonart/art/blob/master/infinityX.png",
     "attributes": [
       {
         "trait_type": "Item",
         "value": "Developer Portal"
       }
     ]
+
   }
