@@ -2,7 +2,7 @@
     "name": "OPOS",
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
-    "image": "https://github.com/gillonart/art/blob/f6b5cea9d12249648575ecda427cb3c6ab46c231/infinityX.png",
+    "image": "https://github.com/gillonart/art/blob/master/sol2.png",
     "attributes": [
       {
         "trait_type": "Item",
@@ -11,3 +11,4 @@
     ]
 
   }
+
