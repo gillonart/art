@@ -3,7 +3,13 @@
     "symbol": "OPOS",
     "description": "Only Possible On Solana",
     "image": "https://raw.githubusercontent.com/gillonart/art/master/sol2.png",
-    "attributes": [],
+    
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
   "properties": {
     "files": [
       {
